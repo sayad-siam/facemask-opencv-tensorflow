@@ -20,6 +20,8 @@ Due to the Covid-19 outbreak, this technology can therefore be employed in real-
 3. Go to the project directory where you downloaded the project. Open command prompt in that directory and type ```jupyter notebook``` in it.
 4. Open ```FaceMaskDetect.ipynb```, ```Trust``` it and click ```Kernel``` -> ```Restart and Run All```
 5. The system will take upto 8-10 minutes to complete running depending on your device. After completion it will open the Webcam connected to your device (If you have any).
+## Screenshots
+<a href="Without Mask"><img src="https://i.ibb.co/rF8Ln5J/NO-MASK-1.jpg" alt="NO-MASK-1" border="0"></a>
 ## Limitations and Future Plan
 * Our system requires good lighting, camera with decent quality and clear frontal view of faces. We have plans to make our system feasible in different lighting conditions.
 * The dataset we used has only properly masked faces. We will use dataset of faces of people not wearing mask properly (Nose or Chin area not covered).

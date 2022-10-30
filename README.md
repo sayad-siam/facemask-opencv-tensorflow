@@ -19,9 +19,15 @@ Due to the Covid-19 outbreak, this technology can therefore be employed in real-
 ## Installation
 1. Make sure your device has [Python](https://www.python.org/downloads/) installed.
 2. Install [Anaconda](https://www.anaconda.com/). The package will include Jupyter Notebook.
-3. Go to the project directory where you downloaded the project. Open command prompt in that directory and type ```jupyter notebook``` in it.
-4. Open ```FaceMaskDetect.ipynb```, ```Trust``` it and click ```Kernel``` -> ```Restart and Run All```
-5. The system will take upto 8-10 minutes to complete running depending on your device. After completion it will open the Webcam connected to your device (If you have any).
+3. Install the following Python packages-
+  ```
+  pip install tensorflow
+  pip install numpy
+  pip install opencv-python
+  ```
+4. Go to the project directory where you downloaded the project. Open command prompt in that directory and type ```jupyter notebook``` in it.
+5. Open ```FaceMaskDetect.ipynb```, ```Trust``` it and click ```Kernel``` -> ```Restart and Run All```
+6. The system will take upto 8-10 minutes to complete running depending on your device. After completion it will open the Webcam connected to your device (If you have any).
 ## Screenshots
 <img
   src="https://i.ibb.co/rF8Ln5J/NO-MASK-1.jpg"

@@ -21,7 +21,11 @@ Due to the Covid-19 outbreak, this technology can therefore be employed in real-
 4. Open ```FaceMaskDetect.ipynb```, ```Trust``` it and click ```Kernel``` -> ```Restart and Run All```
 5. The system will take upto 8-10 minutes to complete running depending on your device. After completion it will open the Webcam connected to your device (If you have any).
 ## Screenshots
-<a href="Without Mask"><img src="https://i.ibb.co/rF8Ln5J/NO-MASK-1.jpg" alt="NO-MASK-1" style="display: inline-block; margin: 0 auto; max-width: 300px"></a>
+<img
+  src="https://i.ibb.co/rF8Ln5J/NO-MASK-1.jpg"
+  alt="Without Facemask"
+  title="Without Face Mask"
+  style="display: inline-block; margin: 0 auto; width: 300px">
 ## Limitations and Future Plan
 * Our system requires good lighting, camera with decent quality and clear frontal view of faces. We have plans to make our system feasible in different lighting conditions.
 * The dataset we used has only properly masked faces. We will use dataset of faces of people not wearing mask properly (Nose or Chin area not covered).

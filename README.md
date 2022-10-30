@@ -1,5 +1,7 @@
 # Realtime Facemask Detection System Using OpenCV & TensorFlow
-#### "Real-time Face Mask Detection" is a Deep Learning and Computer Vision project. This project detects human face masks using Python machine learning modules such as OpenCV and TensorFlow. This system is built as a custom deep learning model to detect whether or not a person is wearing a face mask. It will work on both still images and multiple real-time live video footages.
+#### **"Real-time Face Mask Detection"** is a Deep Learning and Computer Vision project. This project detects human face masks using Python machine learning modules such as OpenCV and TensorFlow. This system is built as a custom deep learning model to detect whether or not a person is wearing a face mask. It will work on both still images and multiple real-time live video footages.
+## Motivation
+Due to the current **COVID-19** epidemic, there is a strong demand for effective face mask detection applications in order to maintain the safety of transit systems, highly populated areas, residential neighborhoods, major manufacturers, and other businesses. This task is difficult because there aren't many large datasets of 'with mask' photos.
 ## Framework/Library Used
 * *OpenCV*
 * *Caffe-based Face Detector*

@@ -23,7 +23,9 @@ Due to the Covid-19 outbreak, this technology can therefore be employed in real-
   ```
   pip install tensorflow
   pip install numpy
+  pip install matplotlib
   pip install opencv-python
+  pip install opencv-contrib-python
   ```
 4. Go to the project directory where you downloaded the project. Open command prompt in that directory and type ```jupyter notebook``` in it.
 5. Open ```FaceMaskDetect.ipynb```, ```Trust``` it and click ```Kernel``` -> ```Restart and Run All```
